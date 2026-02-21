@@ -32,11 +32,11 @@ Or include this folder alongside your existing Maester custom-tests folder and r
 
 ## Tests included
 
-| Test file | Control checked |
-| --------- | --------------- |
-| `tests/Test-CopilotSensitivityLabels.Tests.ps1` | At least three sensitivity labels are configured and at least one is published. |
-| `tests/Test-CopilotAuditLogging.Tests.ps1` | Unified audit log is enabled at the tenant level (precondition for Copilot interaction auditing). |
-| `tests/Test-CopilotRestrictedSharePointSearch.Tests.ps1` | Restricted SharePoint Search configuration follows tenant policy. |
+| Test file                                                | Control checked                                                                                   |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| `tests/Test-CopilotSensitivityLabels.Tests.ps1`          | At least three sensitivity labels are configured and at least one is published.                   |
+| `tests/Test-CopilotAuditLogging.Tests.ps1`               | Unified audit log is enabled at the tenant level (precondition for Copilot interaction auditing). |
+| `tests/Test-CopilotRestrictedSharePointSearch.Tests.ps1` | Restricted SharePoint Search configuration follows tenant policy.                                 |
 
 ## Contributing
 
