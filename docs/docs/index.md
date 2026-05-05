@@ -2,7 +2,7 @@
 
 Custom [Maester](https://maester.dev) tests for Microsoft 365 Copilot security controls.
 
-See the [README on GitHub](https://github.com/LukeEvansTech/maester-copilot-tests) for installation.
+See the [Readme on GitHub](https://github.com/LukeEvansTech/maester-copilot-tests) for installation.
 
 ## Tests included
 
