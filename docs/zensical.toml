@@ -3,7 +3,7 @@
 site_name = "maester-copilot-tests"
 site_description = "Custom Maester tests for Microsoft 365 Copilot security controls"
 site_author = "Luke Evans"
-site_url = "https://LukeEvansTech.github.io/maester-copilot-tests/"
+site_url = "https://lukeevanstech.github.io/maester-copilot-tests/"
 copyright = "Copyright © 2026 Luke Evans"
 
 docs_dir = "docs"
