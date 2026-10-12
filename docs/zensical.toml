@@ -43,19 +43,12 @@ repo_url = "https://github.com/LukeEvansTech/maester-copilot-tests/"
 repo_name = "LukeEvansTech/maester-copilot-tests"
 edit_uri = "edit/main/docs/docs"
 
-[[nav]]
+[[project.nav]]
 Home = "index.md"
 
-[[nav]]
+[[project.nav]]
 "Tests" = [
   { "Sensitivity labels" = "tests/sensitivity-labels.md" },
   { "Audit logging" = "tests/audit-logging.md" },
   { "Restricted SharePoint search" = "tests/restricted-search.md" }
 ]
-
-[markdown_extensions]
-admonition = {}
-toc = { permalink = true }
-
-[markdown_extensions.pymdownx.superfences]
-custom_fences = [{ name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }]
